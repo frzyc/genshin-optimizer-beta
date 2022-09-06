@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/genshin-optimizer-beta/static/css/main.e280cb8f.css",
-    "main.js": "/genshin-optimizer-beta/static/js/main.12cedbaf.js",
+    "main.js": "/genshin-optimizer-beta/static/js/main.f59e3fc7.js",
     "static/js/945.3a4ec68e.chunk.js": "/genshin-optimizer-beta/static/js/945.3a4ec68e.chunk.js",
     "static/js/439.79b9fb8a.chunk.js": "/genshin-optimizer-beta/static/js/439.79b9fb8a.chunk.js",
     "static/js/878.773801a2.chunk.js": "/genshin-optimizer-beta/static/js/878.773801a2.chunk.js",
-    "static/js/653.6837eed0.chunk.js": "/genshin-optimizer-beta/static/js/653.6837eed0.chunk.js",
+    "static/js/653.946f2a81.chunk.js": "/genshin-optimizer-beta/static/js/653.946f2a81.chunk.js",
     "static/js/348.8e631478.chunk.js": "/genshin-optimizer-beta/static/js/348.8e631478.chunk.js",
     "static/js/915.595f5181.chunk.js": "/genshin-optimizer-beta/static/js/915.595f5181.chunk.js",
     "static/js/400.c721d6d9.chunk.js": "/genshin-optimizer-beta/static/js/400.c721d6d9.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/414.5ec38fbf.chunk.js": "/genshin-optimizer-beta/static/js/414.5ec38fbf.chunk.js",
     "static/js/886.9e150793.chunk.js": "/genshin-optimizer-beta/static/js/886.9e150793.chunk.js",
     "static/js/956.0bde2ba9.chunk.js": "/genshin-optimizer-beta/static/js/956.0bde2ba9.chunk.js",
-    "static/js/213.baf098ca.chunk.js": "/genshin-optimizer-beta/static/js/213.baf098ca.chunk.js",
+    "static/js/213.99238ecf.chunk.js": "/genshin-optimizer-beta/static/js/213.99238ecf.chunk.js",
     "static/js/383.f1312057.chunk.js": "/genshin-optimizer-beta/static/js/383.f1312057.chunk.js",
     "static/js/367.bd706b2a.chunk.js": "/genshin-optimizer-beta/static/js/367.bd706b2a.chunk.js",
     "static/js/476.dde06be3.chunk.js": "/genshin-optimizer-beta/static/js/476.dde06be3.chunk.js",
@@ -177,11 +177,11 @@
     "static/media/icon_slot_goblet.png": "/genshin-optimizer-beta/static/media/icon_slot_goblet.073848cfcd634ccca56f.png",
     "static/media/getFetch.cjs": "/genshin-optimizer-beta/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.e280cb8f.css.map": "/genshin-optimizer-beta/static/css/main.e280cb8f.css.map",
-    "main.12cedbaf.js.map": "/genshin-optimizer-beta/static/js/main.12cedbaf.js.map",
+    "main.f59e3fc7.js.map": "/genshin-optimizer-beta/static/js/main.f59e3fc7.js.map",
     "945.3a4ec68e.chunk.js.map": "/genshin-optimizer-beta/static/js/945.3a4ec68e.chunk.js.map",
     "439.79b9fb8a.chunk.js.map": "/genshin-optimizer-beta/static/js/439.79b9fb8a.chunk.js.map",
     "878.773801a2.chunk.js.map": "/genshin-optimizer-beta/static/js/878.773801a2.chunk.js.map",
-    "653.6837eed0.chunk.js.map": "/genshin-optimizer-beta/static/js/653.6837eed0.chunk.js.map",
+    "653.946f2a81.chunk.js.map": "/genshin-optimizer-beta/static/js/653.946f2a81.chunk.js.map",
     "348.8e631478.chunk.js.map": "/genshin-optimizer-beta/static/js/348.8e631478.chunk.js.map",
     "915.595f5181.chunk.js.map": "/genshin-optimizer-beta/static/js/915.595f5181.chunk.js.map",
     "400.c721d6d9.chunk.js.map": "/genshin-optimizer-beta/static/js/400.c721d6d9.chunk.js.map",
@@ -191,7 +191,7 @@
     "414.5ec38fbf.chunk.js.map": "/genshin-optimizer-beta/static/js/414.5ec38fbf.chunk.js.map",
     "886.9e150793.chunk.js.map": "/genshin-optimizer-beta/static/js/886.9e150793.chunk.js.map",
     "956.0bde2ba9.chunk.js.map": "/genshin-optimizer-beta/static/js/956.0bde2ba9.chunk.js.map",
-    "213.baf098ca.chunk.js.map": "/genshin-optimizer-beta/static/js/213.baf098ca.chunk.js.map",
+    "213.99238ecf.chunk.js.map": "/genshin-optimizer-beta/static/js/213.99238ecf.chunk.js.map",
     "383.f1312057.chunk.js.map": "/genshin-optimizer-beta/static/js/383.f1312057.chunk.js.map",
     "367.bd706b2a.chunk.js.map": "/genshin-optimizer-beta/static/js/367.bd706b2a.chunk.js.map",
     "476.dde06be3.chunk.js.map": "/genshin-optimizer-beta/static/js/476.dde06be3.chunk.js.map",
@@ -210,6 +210,6 @@
   },
   "entrypoints": [
     "static/css/main.e280cb8f.css",
-    "static/js/main.12cedbaf.js"
+    "static/js/main.f59e3fc7.js"
   ]
 }
