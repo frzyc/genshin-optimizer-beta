@@ -663,6 +663,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+@genshin-optimizer/util
+
 @mui/base
 MIT
 The MIT License (MIT)
