@@ -61,6 +61,7 @@
   },
   "filterLocation": {
     "location": "Location",
+    "any": "Any",
     "inventory": "Inventory",
     "currentlyEquipped": "Currently Equipped"
   },

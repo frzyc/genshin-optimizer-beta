@@ -1,12 +1,13 @@
 {
   "mainStat": {
+    "title": "Main Stat",
     "levelAssTooltip": {
-      "title": "Main Stat Level Assumption",
+      "title": "Level Assumption",
       "desc": "Changes mainstat value to be at least a specific level. Does not change substats."
     },
     "assumptionLvl": {
-      "no": "No Main Stat Lv. Assumption",
-      "lvl": "Assume Main Stat at least Lv. {{lvl}}"
+      "no": "No Lv. Assumption",
+      "lvl": "Assume at least Lv. {{lvl}}"
     }
   },
   "tcGraph": {
@@ -24,10 +25,8 @@
   "levelFilter": "Artifact Level Filter",
   "useExcluded": {
     "title": "Use Excluded Artifacts",
-    "usingNum_one": "Using <1>{{count}}</1> excluded artifacts",
-    "usingNum_other": "Using <1>{{count}}</1> excluded artifacts",
-    "excNum_one": "Excluded <1>{{count}}</1> artifacts",
-    "excNum_other": "Excluded <1>{{count}}</1> artifacts"
+    "usingNum_one": "Using <1>{{count}}</1> excluded artifact",
+    "usingNum_other": "Using <1>{{count}}</1> excluded artifacts"
   },
   "useEquipped": {
     "title": "Use Equipped Artifacts",
@@ -45,8 +44,8 @@
       "add": "Add character to list",
       "clearList": "Clear List"
     },
-    "usingNumTot_one": "Using <1>{{arts}}</1> artifacts from <2>{{count}}</2> character",
-    "usingNumTot_other": "Using <1>{{arts}}</1> artifacts from <2>{{count}}</2> characters"
+    "usingNum_one": "Using from <1>{{count}}</1> character",
+    "usingNum_other": "Using from <1>{{count}}</1> characters"
   },
   "allowPartial": "Allow Partial Builds (<5 artifacts)",
   "constraintFilter": {
