@@ -2527,7 +2527,7 @@ onmessage = ({
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/genshin-optimizer-beta";
+/******/ 		__webpack_require__.p = "/genshin-optimizer-beta/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/importScripts chunk loading */
