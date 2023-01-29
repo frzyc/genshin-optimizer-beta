@@ -137,7 +137,7 @@
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "" + (chunkId === 592 ? "common" : chunkId) + "." + {"94":"9557fc672f0f791c","155":"dcaa3f1db534c3a2","157":"bfd780382cdf8f34","210":"dd2172c9eab396aa","244":"6a2b6dded2795b42","269":"bb6aecdf6143d7b7","326":"49969a4623ed2eef","334":"b5ba4f8a3696a5e2","337":"87b49c0ef81f8378","370":"e21514ca288fd157","418":"b94057e04c5f76c7","482":"23e5f916b718c4fb","592":"6957bbe9cfcef102","604":"545692b69700bb60","674":"3229d9410cb6bc75","799":"559380f1ab28c8be","834":"04eea54391f51cf6","878":"98f9b8e5f81ac52a","931":"694471879ee8f54b","944":"ff7516097c83a4bd","991":"fd7eafb49faec5cc"}[chunkId] + ".js";
+/******/ 			return "" + (chunkId === 592 ? "common" : chunkId) + "." + {"94":"9557fc672f0f791c","155":"dcaa3f1db534c3a2","157":"bfd780382cdf8f34","210":"dd2172c9eab396aa","244":"6a2b6dded2795b42","269":"bb6aecdf6143d7b7","326":"49969a4623ed2eef","334":"b5ba4f8a3696a5e2","337":"be6e779e33d706c4","370":"06ff29833a03f6fb","418":"b94057e04c5f76c7","482":"23e5f916b718c4fb","592":"6957bbe9cfcef102","604":"545692b69700bb60","674":"3229d9410cb6bc75","799":"559380f1ab28c8be","834":"04eea54391f51cf6","878":"98f9b8e5f81ac52a","931":"694471879ee8f54b","944":"ff7516097c83a4bd","991":"fd7eafb49faec5cc"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
@@ -234,22 +234,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		var scriptUrl;
-/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
-/******/ 		var document = __webpack_require__.g.document;
-/******/ 		if (!scriptUrl && document) {
-/******/ 			if (document.currentScript)
-/******/ 				scriptUrl = document.currentScript.src
-/******/ 			if (!scriptUrl) {
-/******/ 				var scripts = document.getElementsByTagName("script");
-/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
-/******/ 			}
-/******/ 		}
-/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
-/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
-/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
-/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
-/******/ 		__webpack_require__.p = scriptUrl;
+/******/ 		__webpack_require__.p = "/genshin-optimizer-beta";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
