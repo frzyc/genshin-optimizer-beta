@@ -19,8 +19,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
-  "scope": ".",
+  "start_url": "/genshin-optimizer-beta/",
+  "scope": "/genshin-optimizer-beta/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#1b263b"
