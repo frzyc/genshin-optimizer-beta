@@ -19,7 +19,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://frzyc.github.io/genshin-optimizer-beta/",
+  "start_url": "/",
+  "scope": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#1b263b"
